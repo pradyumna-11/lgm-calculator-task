@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lgm-calculator-task/static/css/main.360d7bae.css",
+    "main.js": "/lgm-calculator-task/static/js/main.7c062757.js",
+    "static/js/453.ed3810f9.chunk.js": "/lgm-calculator-task/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/lgm-calculator-task/index.html",
+    "main.360d7bae.css.map": "/lgm-calculator-task/static/css/main.360d7bae.css.map",
+    "main.7c062757.js.map": "/lgm-calculator-task/static/js/main.7c062757.js.map",
+    "453.ed3810f9.chunk.js.map": "/lgm-calculator-task/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.360d7bae.css",
+    "static/js/main.7c062757.js"
+  ]
+}
